@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+}
+
+input {
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 2px 2px 9px;
+    margin-left: 10px;
+}
+
+#btn {
+    margin-left: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 15px;
+    background: rgb(81, 157, 228);
+    color: white;
+    box-shadow: 1px 1px 8px;
+}
+
+#btn:hover {
+    background: rgb(59, 143, 221);
+}
+
+span {
+    margin-left: 70px;
+    color: rgb(168, 30, 30);
+}

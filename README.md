@@ -1,3 +1,5 @@
+APRESENTAÇÃO DO REPOSITÓRIO:
+
 Este é um repositório das 5 questões do teste de estágio da empresa Target.
 
 Em cada teste foi deixado respectivamente ao lado do código os valores/resultados de cada teste para uma melhor compreensão.
